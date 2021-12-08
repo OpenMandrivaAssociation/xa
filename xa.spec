@@ -1,6 +1,6 @@
 Name:		xa
 Summary:	Cross-assembler for NMOS 6502 series processors
-Version:	2.3.11
+Version:	2.3.12
 Release:	1
 License:	GPLv2+
 Group: 		Development/Tools

@@ -1,7 +1,7 @@
 Name:		xa
 Summary:	Cross-assembler for NMOS 6502 series processors
 Version:	2.3.14
-Release:	1
+Release:	2
 License:	GPLv2+
 Group: 		Development/Tools
 Url:		https://www.floodgap.com/retrotech/xa/
